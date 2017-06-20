@@ -1,0 +1,13 @@
+Not to have only one file, I created a new reflections file for my new git repo.
+
+These are my reflections for lesson 2:
+- create new repo, do git init
+- check what changed, do git status
+- list all the commits, do git log
+- explore changes between commits, do git diff # #
+pluses and minuses will determine what was added and deleted, respectively
+- git checkout # (that is the commit number from the log) will allow to checkout some of the past commits (and fix issues if necessary).
+- git clone = clones an existing repo to a the current directory.
+
+Files that changed can be added to the staging area and then committed. The staging area only stores what should go to a commit. We do not have to move everything to the staging ares.
+- to add stuff to staging area, do git add
